@@ -1,0 +1,4 @@
+repository "GGJ 2024 - HalfSocks@unity_285BDD33E4B13C59FE59@cloud"
+  path "/"
+    br "/main"
+    co "/main"
