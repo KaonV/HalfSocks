@@ -4,5 +4,35 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 893e9008abb626f48bb06b7bd52f2f21
+  - enabled: 1
+    path: Assets/Scenes/Dia1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/MiniGame2.unity
+    guid: 6c6a14a58ff3d9747abfb0da9b087a4a
+  - enabled: 1
+    path: Assets/Scenes/CafeNovelDia3.unity
+    guid: 3fd861a9b1d259d4a9adb714da192870
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: e2d200a95c0fa1f47840930c0f6d1287
+  - enabled: 1
+    path: Assets/Scenes/MInigame 1.unity
+    guid: 4d925b65d39de4e49a8838ed7d852ca6
+  - enabled: 1
+    path: Assets/Scenes/Opcoes.unity
+    guid: 633334c50fe2b4d4a91fb6ea6bd6d483
+  - enabled: 1
+    path: Assets/Scenes/Dia 2.unity
+    guid: 10e1906866790e34aa7c27719e36c888
+  - enabled: 1
+    path: Assets/Scenes/Dia 3.unity
+    guid: afd1bede0a563674db3784d81ab7df77
+  - enabled: 1
+    path: Assets/Scenes/CenaChefeDia1.unity
+    guid: 9778b32e61d0c8141a41f8ed1d3d0a41
   m_configObjects: {}
